@@ -1,0 +1,1 @@
+# openwrt_netgear_stora_ms2000
